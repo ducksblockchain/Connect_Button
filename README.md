@@ -1,3 +1,8 @@
+#Path To Code
+The code you need is in: src/WalletCard.js
+
+This is code for a connect button to query MetaMask to connect an account to your application.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
