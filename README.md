@@ -1,5 +1,6 @@
 # Path To Code
-The code you need is in: ### `src/WalletCard.js`
+The code you need is in: 
+### `src/WalletCard.js`
 
 This is code for a connect button to query MetaMask to connect an account to your application.
 
